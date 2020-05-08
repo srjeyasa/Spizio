@@ -1,6 +1,6 @@
 /*
 
-This program implements a UI for Spizio in Processing (.pde)
+This program implements a UI Prototype for Spizio in Processing (.pde).
 
 */
 
