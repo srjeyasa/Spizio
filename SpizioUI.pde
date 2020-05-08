@@ -1,6 +1,8 @@
 /*
 
 This program implements a UI Prototype for Spizio in Processing (.pde).
+Screen state information is communicated to an onboard Arduino through
+serial communication at a default 9600 baud rate.
 
 */
 
