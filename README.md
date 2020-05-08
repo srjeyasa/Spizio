@@ -1,4 +1,4 @@
-# Spizio - Automatic Spice Dispenser
+# Spizio
 Spizio is a unique spice dispensing device that automates the manual process of measuring and dispensing powdered spices in a kitchen - making the process faster and more efficient. It is can accept any powdered spices and is capable of dispensing user selected quantity of any spice or spice blend.
 
 Spizio was developed as a final year capstone project by mechanical engineering students Solomon Anandan and Janelle Tan at the University of Waterloo. More details, including videos of the dispensing mechanism can be found on the [Dyson Award submission website](https://www.jamesdysonaward.org/en-US/2020/project/spizio/). Spizio has been awarded the GM Canada Innovation Award and was nominated for the Apple Industrial Design Award.
